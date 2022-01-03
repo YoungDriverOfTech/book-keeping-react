@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/book-keeping-react/static/css/main.6bf163ce.chunk.css",
+    "main.js": "/book-keeping-react/static/js/main.a162cedd.chunk.js",
+    "main.js.map": "/book-keeping-react/static/js/main.a162cedd.chunk.js.map",
+    "runtime-main.js": "/book-keeping-react/static/js/runtime-main.d45f1a12.js",
+    "runtime-main.js.map": "/book-keeping-react/static/js/runtime-main.d45f1a12.js.map",
+    "static/js/2.b8beb48f.chunk.js": "/book-keeping-react/static/js/2.b8beb48f.chunk.js",
+    "static/js/2.b8beb48f.chunk.js.map": "/book-keeping-react/static/js/2.b8beb48f.chunk.js.map",
+    "index.html": "/book-keeping-react/index.html",
+    "precache-manifest.b739459252fd6394853cc51f8b409350.js": "/book-keeping-react/precache-manifest.b739459252fd6394853cc51f8b409350.js",
+    "service-worker.js": "/book-keeping-react/service-worker.js",
+    "static/css/main.6bf163ce.chunk.css.map": "/book-keeping-react/static/css/main.6bf163ce.chunk.css.map",
+    "static/js/2.b8beb48f.chunk.js.LICENSE.txt": "/book-keeping-react/static/js/2.b8beb48f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45f1a12.js",
+    "static/js/2.b8beb48f.chunk.js",
+    "static/css/main.6bf163ce.chunk.css",
+    "static/js/main.a162cedd.chunk.js"
+  ]
+}
